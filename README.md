@@ -1,3 +1,2 @@
-# ilkKod
-Merhaba. Ben Zehra. Repository'me Hoş Geldiniz!
-Ben Java öğreniyorum.
+# Merhaba. Ben Zehra. Repository'me Hoş Geldiniz!
+# Ben Java öğreniyorum.
