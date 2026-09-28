@@ -1,4 +1,4 @@
-public class ilkKod {
+public class CıftKupToplami {
     public static void main(String[] args) {
         int toplam = 0;
 
