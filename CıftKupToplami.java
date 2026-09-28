@@ -1,4 +1,4 @@
-public class CiftKupToplami {
+public class ilkKod {
     public static void main(String[] args) {
         int toplam = 0;
 
